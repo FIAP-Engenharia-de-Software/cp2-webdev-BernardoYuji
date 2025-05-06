@@ -11,6 +11,7 @@
 
 function calcular(num1, num2, operador) {
   // TODO: implementar função
+
 }
 
 
